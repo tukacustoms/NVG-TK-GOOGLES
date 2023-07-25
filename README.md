@@ -10,7 +10,7 @@ Night vision technology relies on the use of infrared light, which falls outside
 
 To overcome this limitation, digital cameras capable of detecting infrared light are employed. However, most factory-made digital cameras come with infrared filters that block this light, affecting their night vision capabilities. The NVG-TK-GOOGLES project will address this issue with solutions that avoid the need for modifying the digital cameras.
 
-![NVG-TK-GOOGLES Product](https://pt.aliexpress.com/item/1005004223144753.html?_t=pvid%3A9ecd82ac-5747-4eb7-bf66-0b2aad1abbbd&afTraceInfo=1005004223144753__pc__pcBridgePPC__xxxxxx__1690228233&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra)
+[NVG-TK-GOOGLES Product](https://pt.aliexpress.com/item/1005004223144753.html?_t=pvid%3A9ecd82ac-5747-4eb7-bf66-0b2aad1abbbd&afTraceInfo=1005004223144753__pc__pcBridgePPC__xxxxxx__1690228233&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra)
 
 ## Hardware Choices
 
@@ -26,7 +26,7 @@ The project shifted its focus to digital cameras with factory-installed infrared
 
 #### Camera Option 1
 
-![Camera Option 1](https://pt.aliexpress.com/item/1005005338137609.html?spm=a2g0o.productlist.main.15.7ae414631x433U&algo_pvid=4b931d3a-d59c-426e-8473-9e1e93f62575&aem_p4p_detail=202307241308272014997737209960001745738&algo_exp_id=4b931d3a-d59c-426e-8473-9e1e93f62575-7&pdp_npi=3%40dis%21BRL%21241.40%21156.91%21%21%21345.84%21%21%4021227bf916902293079494648d0bdf%2112000032662752561%21sea%21BR%213124747279)
+[Camera Option 1](https://pt.aliexpress.com/item/1005005338137609.html?spm=a2g0o.productlist.main.15.7ae414631x433U&algo_pvid=4b931d3a-d59c-426e-8473-9e1e93f62575&aem_p4p_detail=202307241308272014997737209960001745738&algo_exp_id=4b931d3a-d59c-426e-8473-9e1e93f62575-7&pdp_npi=3%40dis%21BRL%21241.40%21156.91%21%21%21345.84%21%21%4021227bf916902293079494648d0bdf%2112000032662752561%21sea%21BR%213124747279)
 
 ![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/6a0864f8-a852-4783-93d7-4e615a0da388)
 
@@ -38,7 +38,7 @@ The project shifted its focus to digital cameras with factory-installed infrared
 
 #### Camera Option 2
 
-![Camera Option 2](https://pt.aliexpress.com/item/1005005736297543.html?spm=a2g0o.store_pc_allProduct.8148356.72.492c7808lG1pfg&pdp_npi=3%40dis%21BRL%21R%24%20100%2C35%21R%24%20100%2C35%21%21%21%21%21%402103205216902294463534572e062d%2112000034161150747%21sh%21BR%213124747279)
+[Camera Option 2](https://pt.aliexpress.com/item/1005005736297543.html?spm=a2g0o.store_pc_allProduct.8148356.72.492c7808lG1pfg&pdp_npi=3%40dis%21BRL%21R%24%20100%2C35%21R%24%20100%2C35%21%21%21%21%21%402103205216902294463534572e062d%2112000034161150747%21sh%21BR%213124747279)
 
 ![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/9ad65086-853d-4c71-a6b2-2bde5d9ec13b)
 
@@ -53,7 +53,7 @@ The project shifted its focus to digital cameras with factory-installed infrared
 
 #### Camera Option 3
 
-![Camera Option 3](https://pt.aliexpress.com/item/1005005444124395.html?gatewayAdapt=glo2bra)
+[Camera Option 3](https://pt.aliexpress.com/item/1005005444124395.html?gatewayAdapt=glo2bra)
 
 ![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/c235ab53-5e9c-495f-804f-4b30c8b40370)
 
@@ -75,7 +75,7 @@ To replace the expensive Adafruit TFT display, a more affordable alternative was
   - Maximum Power Usage: 0.5W
   - Aspect Ratio: 4:3
 
-![TFT Display](https://pt.aliexpress.com/item/1005004380216204.html?gatewayAdapt=glo2bra)
+[TFT Display](https://pt.aliexpress.com/item/1005004380216204.html?gatewayAdapt=glo2bra)
 
 ![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/c235ab53-5e9c-495f-804f-4b30c8b40370)
 
