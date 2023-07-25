@@ -28,6 +28,8 @@ The project shifted its focus to digital cameras with factory-installed infrared
 
 ![Camera Option 1](https://pt.aliexpress.com/item/1005005338137609.html?spm=a2g0o.productlist.main.15.7ae414631x433U&algo_pvid=4b931d3a-d59c-426e-8473-9e1e93f62575&aem_p4p_detail=202307241308272014997737209960001745738&algo_exp_id=4b931d3a-d59c-426e-8473-9e1e93f62575-7&pdp_npi=3%40dis%21BRL%21241.40%21156.91%21%21%21345.84%21%21%4021227bf916902293079494648d0bdf%2112000032662752561%21sea%21BR%213124747279)
 
+![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/6a0864f8-a852-4783-93d7-4e615a0da388)
+
 - Field of View: 94° to 190°
 - Module Size: 38mm x 38mm x 24.60mm
 - Fixed Focus and 5V Power Supply
@@ -38,6 +40,8 @@ The project shifted its focus to digital cameras with factory-installed infrared
 
 ![Camera Option 2](https://pt.aliexpress.com/item/1005005736297543.html?spm=a2g0o.store_pc_allProduct.8148356.72.492c7808lG1pfg&pdp_npi=3%40dis%21BRL%21R%24%20100%2C35%21R%24%20100%2C35%21%21%21%21%21%402103205216902294463534572e062d%2112000034161150747%21sh%21BR%213124747279)
 
+![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/9ad65086-853d-4c71-a6b2-2bde5d9ec13b)
+
 - Field of View: 50° to 80°
 - Module Size: 25mm x 12mm x 6mm
 - Fixed Focus and 5V Power Supply
@@ -45,9 +49,13 @@ The project shifted its focus to digital cameras with factory-installed infrared
 - Image Transfer Options: 640x480 @ 30fps or 320x240 @ 128fps
 - Notable Features: Smaller size and budget-friendly, suitable for testing purposes.
 
+![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/e0ed5d04-c573-4402-bf00-17ff5b59f775)
+
 #### Camera Option 3
 
 ![Camera Option 3](https://pt.aliexpress.com/item/1005005444124395.html?gatewayAdapt=glo2bra)
+
+![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/c235ab53-5e9c-495f-804f-4b30c8b40370)
 
 - Field of View: 80°
 - Module Size: 25mm x 12mm x 6mm
@@ -55,6 +63,8 @@ The project shifted its focus to digital cameras with factory-installed infrared
 - Maximum Power Usage: 500mW
 - Image Transfer Options: 640x480 @ 30fps or 320x240 @ 128fps
 - Notable Features: Budget-friendly option, suitable for testing and custom modifications.
+
+![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/475247b8-ee2b-405d-baff-d86463ab8024)
 
 ## TFT Displays
 
@@ -66,6 +76,8 @@ To replace the expensive Adafruit TFT display, a more affordable alternative was
   - Aspect Ratio: 4:3
 
 ![TFT Display](https://pt.aliexpress.com/item/1005004380216204.html?gatewayAdapt=glo2bra)
+
+![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/c235ab53-5e9c-495f-804f-4b30c8b40370)
 
 ## Conclusion
 
