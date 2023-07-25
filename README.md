@@ -1,103 +1,78 @@
-# NVG-TK-GOOGLES
-This is a new product of 3d printed night vision googles for airsoft use!, afordable and functional parts
+# NVG-TK-GOOGLES: 3D Printed Night Vision Goggles for Airsoft Enthusiasts
 
-# NVG-TK-GOOGLES science behind them
+## Introduction
 
-for this project at first we need to know how to see in dark enviroments with technology, for human eye the wavelength is called visible spectrum wich is the range of wavelengths that human eye can sjee; wich is between 380 and 700 nanometers, for an common night vision googles the wavelenght used is infrared light wich has between 780nm and 1mm so that wavelenght human eye coudnt see.
+NVG-TK-GOOGLES is an innovative product that brings 3D printed night vision goggles to the airsoft community. These goggles are designed to be both affordable and functional, allowing users to have a clear view in dark environments during airsoft games.
 
-to overcome the wavelenght problem, digital cameras cam pick up infrared light, but it has a catch, most of the digital cameras from the factory has an filter for infrared light, this filter are mean to increase the overal image quality, but in this project will have some solutions to make it dont be necessary to make any modifications to the digital camera
+## Science Behind NVG-TK-GOOGLES
 
-https://pt.aliexpress.com/item/1005004223144753.html?_t=pvid%3A9ecd82ac-5747-4eb7-bf66-0b2aad1abbbd&afTraceInfo=1005004223144753__pc__pcBridgePPC__xxxxxx__1690228233&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra
+Night vision technology relies on the use of infrared light, which falls outside the visible spectrum of the human eye (380 to 700 nanometers). Common night vision goggles utilize infrared light with wavelengths between 780nm and 1mm, making it invisible to the naked eye.
 
-# hardware choisses 
+To overcome this limitation, digital cameras capable of detecting infrared light are employed. However, most factory-made digital cameras come with infrared filters that block this light, affecting their night vision capabilities. The NVG-TK-GOOGLES project will address this issue with solutions that avoid the need for modifying the digital cameras.
 
-# solution 1
+![NVG-TK-GOOGLES Product](https://pt.aliexpress.com/item/1005004223144753.html?_t=pvid%3A9ecd82ac-5747-4eb7-bf66-0b2aad1abbbd&afTraceInfo=1005004223144753__pc__pcBridgePPC__xxxxxx__1690228233&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra)
 
-at first the project have some features based on the https://www.youtube.com/watch?v=MthrbR4_UAk&t=500s project.
+## Hardware Choices
 
-wich uses fpv high resolution on night time video cameras and uses them with an tft with adapter display, those displays are mean to reproduce in real time videos catched by the digital camera
+### Solution 1
 
-https://www.adafruit.com/product/911
+Initially, the project considered using high-resolution FPV cameras with TFT displays to achieve real-time video reproduction. While functional, this solution had drawbacks:
+- The chosen FPV cameras did not take full advantage of the night vision feature, which is a key aspect of the goggles.
+- The expensive cost of the FPV cameras, especially when multiplied by four for panoramic view, made the final product prohibitively expensive.
 
-https://pt.aliexpress.com/item/32820081956.html?spm=a2g0o.productlist.main.7.79fa7a2eKG9bhZ&algo_pvid=ba2699eb-73fe-4e81-912d-6e965fe0a0f0&algo_exp_id=ba2699eb-73fe-4e81-912d-6e965fe0a0f0-3&pdp_npi=3%40dis%21BRL%21179.17%21129.0%21%21%2135.71%21%21%40210213b716902268491321269d077e%2110000007610455813%21sea%21BR%213124747279&curPageLogUid=0kWpS1jqqGdU#nav-review
+### Solution 2
 
-unfortunaly they are quite expensive option still and a bit hard to find them.
+The project shifted its focus to digital cameras with factory-installed infrared filters removed to fully utilize the IR sensitivity for night vision. After extensive research, three viable options were found:
 
-problem of this project idea is that they arent using the main feature of the night vision googles, the infrared lighting, but still a functional product, because the fpv camera choosed can cait 0.01 lux lightening of the enviroment.
-second problem is that the price of the fpv camera, the final product will be quite expensive by multiplying everything by 4.
+#### Camera Option 1
 
-# solution 2
+![Camera Option 1](https://pt.aliexpress.com/item/1005005338137609.html?spm=a2g0o.productlist.main.15.7ae414631x433U&algo_pvid=4b931d3a-d59c-426e-8473-9e1e93f62575&aem_p4p_detail=202307241308272014997737209960001745738&algo_exp_id=4b931d3a-d59c-426e-8473-9e1e93f62575-7&pdp_npi=3%40dis%21BRL%21241.40%21156.91%21%21%21345.84%21%21%4021227bf916902293079494648d0bdf%2112000032662752561%21sea%21BR%213124747279)
 
-after searching for a while, asking about a camera already without ir filter, found some options to use that they are already made for night vision wich makes the overal project with same functionality as intended
+- Field of View: 94° to 190°
+- Module Size: 38mm x 38mm x 24.60mm
+- Fixed Focus and 5V Power Supply
+- Best Image Transfer: 640x480 @ 30fps
+- Notable Features: Automatic day-to-night switching, built-in 6 IR LEDs for enhanced visibility in the dark, and convenient mounting holes.
 
-https://pt.aliexpress.com/item/1005005338137609.html?spm=a2g0o.productlist.main.15.7ae414631x433U&algo_pvid=4b931d3a-d59c-426e-8473-9e1e93f62575&aem_p4p_detail=202307241308272014997737209960001745738&algo_exp_id=4b931d3a-d59c-426e-8473-9e1e93f62575-7&pdp_npi=3%40dis%21BRL%21241.40%21156.91%21%21%21345.84%21%21%4021227bf916902293079494648d0bdf%2112000032662752561%21sea%21BR%213124747279&curPageLogUid=DhVBPfh4VJDW&search_p4p_id=202307241308272014997737209960001745738_8
+#### Camera Option 2
 
-![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/6a0864f8-a852-4783-93d7-4e615a0da388)
+![Camera Option 2](https://pt.aliexpress.com/item/1005005736297543.html?spm=a2g0o.store_pc_allProduct.8148356.72.492c7808lG1pfg&pdp_npi=3%40dis%21BRL%21R%24%20100%2C35%21R%24%20100%2C35%21%21%21%21%21%402103205216902294463534572e062d%2112000034161150747%21sh%21BR%213124747279)
 
-this first option has the overal capabilities for ir sensitivity and use for the analog tft display of the project
+- Field of View: 50° to 80°
+- Module Size: 25mm x 12mm x 6mm
+- Fixed Focus and 5V Power Supply
+- Maximum Power Usage: 500mW
+- Image Transfer Options: 640x480 @ 30fps or 320x240 @ 128fps
+- Notable Features: Smaller size and budget-friendly, suitable for testing purposes.
 
-uses 640*480/30fps
-110mA-280mA current power usage
-5v power supply
-68 °,80 °,90 °,100 °, 120 °, 150 °, 170 ° lenses options
+#### Camera Option 3
 
-for this option has the great pcb format with mounting holes to use on the overal project
-has a low distortion lenses to choose from wich is great for the project, since the ngv already has a panoramic functionality, using a wide and istorted lenses angle gonna afect the overal performance while using it 
-the just 2 minor disaventages
-the price, is the greater price of them all with almost same capabilities but still is a great option
-doesnt come with led built in, but it has its good advantages too
+![Camera Option 3](https://pt.aliexpress.com/item/1005005444124395.html?gatewayAdapt=glo2bra)
 
-# hardware studies
+- Field of View: 80°
+- Module Size: 25mm x 12mm x 6mm
+- Fixed Focus and 5V Power Supply
+- Maximum Power Usage: 500mW
+- Image Transfer Options: 640x480 @ 30fps or 320x240 @ 128fps
+- Notable Features: Budget-friendly option, suitable for testing and custom modifications.
 
-after further study and analysing options with different price ranges and documentations were found out 2 options that can be satisfied by using the IR sensitivity for the night vision theory
+## TFT Displays
 
-https://pt.aliexpress.com/item/1005005736297543.html?spm=a2g0o.store_pc_allProduct.8148356.72.492c7808lG1pfg&pdp_npi=3%40dis%21BRL%21R%24%20100%2C35%21R%24%20100%2C35%21%21%21%21%21%402103205216902294463534572e062d%2112000034161150747%21sh%21BR%213124747279
+To replace the expensive Adafruit TFT display, a more affordable alternative was found:
 
-![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/9ad65086-853d-4c71-a6b2-2bde5d9ec13b)
+- TFT Display:
+  - Working Voltage: 3V to 15V
+  - Maximum Power Usage: 0.5W
+  - Aspect Ratio: 4:3
 
+![TFT Display](https://pt.aliexpress.com/item/1005004380216204.html?gatewayAdapt=glo2bra)
 
-this first one has from 94 degree to 190 degree lenses of field of view, but in this project we gonna focus on  the 94 because we gonna have 4 digital cameras for the panoramic view of the NVG. another feature that this digital camera has is the hability to automaticly changes from day light to night and already hasj a built in 6 IR led to illuminate and help the overal view in the dark.
+## Conclusion
 
-has module size 38mm by 38mm by 24.60mm
-has fixed focus
-need 5V supply wich is great and comes from the usb bus power
-for this nvg the best image transfer to use is between 640 by 480 with 30 fps since the frame hate is extremely important for the airsoft use
+NVG-TK-GOOGLES is a promising project that aims to provide 3D printed night vision goggles to airsoft enthusiasts. By using IR-sensitive cameras and budget-friendly components, the goggles will be affordable, functional, and able to provide an excellent night vision experience during airsoft games.
 
-![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/e0ed5d04-c573-4402-bf00-17ff5b59f775)
+## Contact Information
 
-and a plus is that on the pcb has some mounting holes that can be used to fix the digital camera in place, since the sizes are perfect for the use, this option is the main digital camera to use on the project
+For inquiries or feedback, please contact us at [Your Email Address]. We welcome collaboration and contributions to further enhance the NVG-TK-GOOGLES project.
 
-another option to use with ir sensitivity is the 
-
-https://pt.aliexpress.com/item/1005005444124395.html?gatewayAdapt=glo2bra
-
-![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/475247b8-ee2b-405d-baff-d86463ab8024)
-
-it is a smaller size and more budget price with 50 and 80 degree lenses, wich probably gonna use the 80 degree version, but for testing we could use 50 degree to see overal performance
-
-has module size 25mm by 12mm by 6mm
-fixed focus
-works with 5V supply same as past examples
-mas power usage is 500mW wich is great for longer periods of usage or smaller batteries
-has 2 options to test for the overal resolution one is 640x480 30FPS wich isj great and another is 320x240 128FPS wich is another great option buut image quality is gonna be poorer for the high fps
-
-![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/c235ab53-5e9c-495f-804f-4b30c8b40370)
-
-has just slight 2 desaventages but those can be solved easily
-one is the overal pcb format, its rectangular and smaller size makes te hole mounts a bit treackier to work with, but in further studies gonna be modeled by metric documentation and be work with
-and the second one is that wont came with ir led built in, wich is good and bad, bad because need to make a separated circuit to add them that would cause an slight bigger power usage, and good because can work out with ir led independetly making if greater in performance and more designs to use.
-
-# tft displays
-
-getting on addafruit site the price is a little bit expensive to work with, making usj to search for another solution to find a substitute for it, is more than the price, is for the overal availability of the tft display that has analog driversj built in
-after a while wasj found them with great price range, wich can use 2 inches display to use with the lenses
-
-https://pt.aliexpress.com/item/1005004380216204.html?gatewayAdapt=glo2bra
-
-![image](https://github.com/tukacustoms/NVG-TK-GOOGLES/assets/115516996/9fb5a2c2-dcb2-4f11-a7bb-a4088f1f1489)
-
-
-it works from range of 3v to 15v wich isj a great range to use including making it paralel to the digital cameras
-uses 0,5w maximum power usage
-and has 4:3 ratio
-
+(Note: Replace [Your Email Address] with the actual email address for contact information.)
